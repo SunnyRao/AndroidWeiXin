@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Myweixin</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="weixin">微信</string>
+    <string name="find">发现</string>
+    <string name="contact">通讯录</string>
+    <string name="chat">聊天</string>
+
+</resources>
